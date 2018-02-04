@@ -1,4 +1,4 @@
 # cmake-in-ffmpeg
-cmake interface wrapper for cmake
+cmake interface wrapper for ffmpeg
 
 ## [ffmpeg windows build download page](https://ffmpeg.zeranoe.com/builds/)
